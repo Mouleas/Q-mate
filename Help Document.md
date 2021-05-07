@@ -10,7 +10,7 @@
 
   <li>User can get the helpline number of any state in india by just choosing their state.</li>
 
-  <li>User can download the documentation of their medicine practices Eg/..(Allopathy, Siddha, Ayurvda etc...).</li>
+  <li>User can download the documentation of their medicine practices. Eg/..(Allopathy, Siddha, Ayurvda etc...).</li>
   
   <li>User can get a better understanding about Covid19 quarantine by pictorial representation.</li></ol>
 
