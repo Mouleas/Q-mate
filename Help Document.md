@@ -10,7 +10,9 @@
 
   <li>User can get the helpline number of any state in india by just choosing their state.</li>
 
-  <li>User can download the documentation of their medicine practices .</li></ol>
+  <li>User can download the documentation of their medicine practices .</li>
+  
+  <li>User can get a better understand about Covid19 quarantine by pictorial representation.</li></ol>
 
 ```
 Navigate through app using the following terms 
