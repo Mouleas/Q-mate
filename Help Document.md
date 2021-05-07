@@ -22,13 +22,15 @@ Navigate through app using the following terms
 4.Click on (Home -> Medicines)
 ```
 
+---
+
 ### Why 14 days quarantine?
 
 We have provided the entire details why we should specifically follow 14 day quarantine.
 <br>
 ```Click on (Navigation button on the top left corner -> Why 14 days quarantine)```
 
-
+---
 
 ### Key Features
 <ul>
