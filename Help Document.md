@@ -12,7 +12,7 @@
 
   <li>User can download the documentation of their medicine practices .</li>
   
-  <li>User can get a better understand about Covid19 quarantine by pictorial representation.</li></ol>
+  <li>User can get a better understanding about Covid19 quarantine by pictorial representation.</li></ol>
 
 ```
 Navigate through app using the following terms 
@@ -25,6 +25,7 @@ Navigate through app using the following terms
 ### Why 14 days quarantine?
 
 We have provided the entire details why we should specifically follow 14 day quarantine.
+<br>
 ```(Navigation button on the top left corner -> Why 14 days quarantine)```
 
 ### Additional Features
