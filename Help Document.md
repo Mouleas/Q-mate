@@ -16,17 +16,17 @@
 
 ```
 Navigate through app using the following terms 
-1.(Home -> Vaccine)
-2.(Navigation button on the top left corner -> Test centres)
-3.(Home -> choose your state ->click on the caller icon to call)
-4.(Home -> Medicines)
+1.Click on (Home -> Vaccine)
+2.Click on (Navigation button on the top left corner -> Test centres)
+3.Click on (Home -> choose your state ->click on the caller icon to call)
+4.Click on (Home -> Medicines)
 ```
 
 ### Why 14 days quarantine?
 
 We have provided the entire details why we should specifically follow 14 day quarantine.
 <br>
-```(Navigation button on the top left corner -> Why 14 days quarantine)```
+```Click on (Navigation button on the top left corner -> Why 14 days quarantine)```
 
 ### Additional Features
 
