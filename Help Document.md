@@ -2,7 +2,7 @@
 ## User Catalogue
 ### What can you do with this app?
 
-<ul>
+<ol>
 
   <li>User can book their vaccines using a button.</li> 
 
@@ -10,13 +10,14 @@
 
   <li>User can get the helpline number of any state in india by just choosing their state.</li>
 
-  <li>User can download the documentation of their medicine practices .</li></ul>
+  <li>User can download the documentation of their medicine practices .</li></ol>
 
 ```
-(Home -> Vaccine)
-(Navigation button on the top left corner -> Test centres)
-(Home -> choose your state ->click on the caller icon to call)
-(Home -> Medicines)
+Navigate through app using the following terms 
+1.(Home -> Vaccine)
+2.(Navigation button on the top left corner -> Test centres)
+3.(Home -> choose your state ->click on the caller icon to call)
+4.(Home -> Medicines)
 ```
 
 ### Why 14 days quarantine?
