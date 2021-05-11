@@ -36,6 +36,9 @@ We have provided the entire details why we should specifically follow 14 day qua
 <ul>
 <li>For users covenient we have provided the Dark mode feature.</li>
 <li>The navigation of this app is so simple even a person with little amount of usage knowledge can operate easily.</li></ul>
-
+<li>This app can be used in both android and ios.</li>
 ---
+
 Note:All the information described in the app is based on Government wesites
+
+### To download the app [click here](https://github.com/M0u1ea5/Q-mate/blob/main/app-release.apk)
